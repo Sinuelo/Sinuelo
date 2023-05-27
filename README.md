@@ -4,6 +4,7 @@
 <div style="display: inline_block"><br> 
             <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python Icon" height="80"/>
             <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  alt="Flask Icon" height="80"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django Icon"height="80"/>
 
   
             
